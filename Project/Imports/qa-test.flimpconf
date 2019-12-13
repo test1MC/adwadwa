@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfluenceImport
+  Server="https://rndconfluence.madcapsoftware.com/"
+  SelectedSpace="QAT"
+  KeepSourceLinks="false"
+  LastImport="2019-12-13T10:19:00.8331652-08:00"
+  ImportTopicsLocation="../../../../../../Documents/My Projects/NewProject9/Content/">
+  <Files>
+    <Url
+      Source="https://rndconfluence.madcapsoftware.com/pages/viewpage.action?pageId=5276450"
+      AbsoluteSource="https://rndconfluence.madcapsoftware.com/pages/viewpage.action?pageId=5276450" />
+    <Url
+      Source="https://rndconfluence.madcapsoftware.com/pages/viewpage.action?pageId=10420242"
+      AbsoluteSource="https://rndconfluence.madcapsoftware.com/pages/viewpage.action?pageId=10420242" />
+    <Url
+      Source="https://rndconfluence.madcapsoftware.com/pages/viewpage.action?pageId=10420244"
+      AbsoluteSource="https://rndconfluence.madcapsoftware.com/pages/viewpage.action?pageId=10420244" />
+    <Url
+      Source="https://rndconfluence.madcapsoftware.com/pages/viewpage.action?pageId=10420229"
+      AbsoluteSource="https://rndconfluence.madcapsoftware.com/pages/viewpage.action?pageId=10420229" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Image_Test.htm"
+      TimeStamp="12/13/2019 10:18:58 AM" />
+    <Url
+      Source="../../Content/OCE_ForwardSlash.htm"
+      TimeStamp="12/13/2019 10:18:58 AM" />
+    <Url
+      Source="../../Content/Forward_Slash.htm"
+      TimeStamp="12/13/2019 10:18:58 AM" />
+    <Url
+      Source="../../Content/A_record.htm"
+      TimeStamp="12/13/2019 10:18:58 AM" />
+    <Url
+      Source="../TOCs/qa-test.fltoc"
+      TimeStamp="12/13/2019 10:19:00 AM" />
+  </GeneratedFiles>
+</ConfluenceImport>
